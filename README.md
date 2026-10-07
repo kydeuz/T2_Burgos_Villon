@@ -26,4 +26,10 @@ Repositorio Git del proyecto maven "T2_Burgos_Villon" , creado para la evaluacio
 
 Trabajo previo: se ha inicializado el repositorio Git, se ha configurado .gitignore y se registraron dos commits (linea base y seccion Evidencia T2).
 
-Trabajo en curso: se gestionarán nuevas modificaciones entre el Working Directory y el Staging Area, y solo se confirmaran en un nuevo commit los cambios validos.
+Trabajo en curso (finalizado) : se gestionarán nuevas modificaciones entre el Working Directory y el Staging Area, y solo se confirmaran en un nuevo commit los cambios validos.
+
+## GESTION DE RAMAS 
+
+-- ** RAMA UTILIZADA ** : `feature-burgos` 
+
+-- ** Cambio realizado ** : Se ha agregado la clase `ControlVersion_Burgos.java`, que muestra en la consola una funcionalidad identificando al estudiando e indicando que la funcionalidad fue realizada desde la rama `feature-burgos`
