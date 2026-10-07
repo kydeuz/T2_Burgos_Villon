@@ -21,3 +21,9 @@ Repositorio Git del proyecto maven "T2_Burgos_Villon" , creado para la evaluacio
 -- **PROFESOR** -> Bocanegra Pinchi Yan Carlos 
 
 -- **FECHA** -> 7 de octubre 
+
+## CONTROL DE CAMBIOS 
+
+Trabajo previo: se ha inicializado el repositorio Git, se ha configurado .gitignore y se registraron dos commits (linea base y seccion Evidencia T2).
+
+Trabajo en curso: se gestionarán nuevas modificaciones entre el Working Directory y el Staging Area, y solo se confirmaran en un nuevo commit los cambios validos.
